@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! This repository showcases my data analytics and 
 
 **Dataset:** 100,000 e-commerce order records
 
-**Key Features:** Quantity, UnitPrice, Discount, ShippingCost, TotalAmount, Category, PaymentMethod, Country, OrderStatus
+**Key Features:** Quantity, UnitPrice, Discount, Shipping Cost, Tota lAmount, Category, Payment Method, Country, Order Status
 
 **Workflow:**
 
